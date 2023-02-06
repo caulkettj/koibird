@@ -147,6 +147,7 @@
       "hero-2": {
         "type": "hero",
         "settings": {
+          "image": "shopify:\/\/shop_images\/0C81C63E-0D13-4707-88D6-B4CFC588521D.jpg",
           "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "medium",
@@ -267,13 +268,6 @@
           "layout": "list",
           "blog_show_author": true,
           "blog_show_date": true
-        }
-      },
-      "index-koiski": {
-        "type": "index-koiski",
-        "settings": {
-          "text-box": "",
-          "text": ""
         }
       },
       "cart-template": {
