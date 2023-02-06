@@ -147,7 +147,6 @@
       "hero-2": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/0C81C63E-0D13-4707-88D6-B4CFC588521D.jpg",
           "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "medium",
@@ -237,10 +236,26 @@
             "settings": {
               "title": "Newsletter"
             }
+          },
+          "34eb11e5-c121-49f9-8533-5c27f3c3108d": {
+            "type": "link_list",
+            "settings": {
+              "title": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "95364c7f-74c1-474d-b660-216bdb814c12": {
+            "type": "text",
+            "settings": {
+              "title": "Talk about your business",
+              "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+            }
           }
         },
         "block_order": [
-          "footer-1"
+          "footer-1",
+          "34eb11e5-c121-49f9-8533-5c27f3c3108d",
+          "95364c7f-74c1-474d-b660-216bdb814c12"
         ],
         "settings": {
           "show_payment_icons": true,
