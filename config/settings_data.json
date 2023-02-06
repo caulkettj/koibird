@@ -130,19 +130,6 @@
           "show_view_all": false
         }
       },
-      "hero-2": {
-        "type": "hero",
-        "settings": {
-          "alignment": "center",
-          "hero_layout": "full_width",
-          "hero_size": "medium",
-          "text_size": "large",
-          "title": "Image with text overlay",
-          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
-          "button_label": "",
-          "button_link": ""
-        }
-      },
       "quotes": {
         "type": "quotes",
         "blocks": {
@@ -318,12 +305,7 @@
       }
     },
     "content_for_index": [
-      "feature-row",
-      "feature-columns",
-      "collection",
-      "hero-2",
-      "quotes",
-      "image-bar"
+
     ],
     "blocks": {
       "1744161739547163668": {
