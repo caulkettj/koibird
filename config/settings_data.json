@@ -317,7 +317,7 @@
         "settings": {
           "logo": "shopify:\/\/shop_images\/4361E74C-9070-4836-914E-D334E2C45114.png",
           "logo_max_width": 150,
-          "header": "Coming Soon"
+          "header": "Coming Soon!"
         }
       },
       "password-content": {
@@ -346,7 +346,15 @@
       "hero-2",
       "quotes",
       "image-bar"
-    ]
+    ],
+    "blocks": {
+      "1744161739547163668": {
+        "type": "shopify:\/\/apps\/countdown-timer-bar-hextom\/blocks\/ctb-embeded-block\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
