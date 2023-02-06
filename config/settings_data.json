@@ -65,20 +65,6 @@
           "color_text": "#ffffff"
         }
       },
-      "hero-1": {
-        "type": "hero",
-        "settings": {
-          "image": "shopify:\/\/shop_images\/7E858E1C-DCE4-4CB2-9875-0E40124CA317.jpg",
-          "alignment": "center",
-          "hero_layout": "full_width",
-          "hero_size": "x-large",
-          "text_size": "large",
-          "title": "",
-          "text": "",
-          "button_label": "",
-          "button_link": ""
-        }
-      },
       "feature-row": {
         "type": "feature-row",
         "settings": {
@@ -231,31 +217,23 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-1": {
-            "type": "newsletter",
-            "settings": {
-              "title": "Newsletter"
-            }
-          },
-          "34eb11e5-c121-49f9-8533-5c27f3c3108d": {
+          "footer-0": {
             "type": "link_list",
             "settings": {
               "title": "Quick links",
               "menu": "footer"
             }
           },
-          "95364c7f-74c1-474d-b660-216bdb814c12": {
-            "type": "text",
+          "footer-1": {
+            "type": "newsletter",
             "settings": {
-              "title": "Talk about your business",
-              "text": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+              "title": "Newsletter"
             }
           }
         },
         "block_order": [
-          "footer-1",
-          "34eb11e5-c121-49f9-8533-5c27f3c3108d",
-          "95364c7f-74c1-474d-b660-216bdb814c12"
+          "footer-0",
+          "footer-1"
         ],
         "settings": {
           "show_payment_icons": true,
@@ -340,7 +318,6 @@
       }
     },
     "content_for_index": [
-      "hero-1",
       "feature-row",
       "feature-columns",
       "collection",
